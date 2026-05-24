@@ -5,7 +5,7 @@
 ### Next-Generation Prediction Markets Built on Algorand
 
 *Capturing the $8B prediction market opportunity with 100x lower costs and 3x faster performance*
-----
+---
 [![Algorand](https://img.shields.io/badge/Built%20on-Algorand-00dc94?style=for-the-badge&logo=algorand)](https://algorand.co/)
 [![PyTeal](https://img.shields.io/badge/Smart%20Contracts-PyTeal-blue?style=for-the-badge)](https://pyteal.readthedocs.io/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
